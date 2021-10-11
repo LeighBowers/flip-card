@@ -3,7 +3,7 @@ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXA
 background-repeat: no-repeat;
 background-size: cover;
 text-align: center;
-color: rgb(131, 32, 32);
+color: rgb(19, 16, 53);
  border-style: solid;
 
 }
@@ -26,7 +26,7 @@ color: rgb(131, 32, 32);
     background-color: transparent;
     width: 400px;
     height: 300px;
-    border: 4px solid #7a1111;
+    border: 4px solid #14dac9;
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
   }
   
@@ -62,7 +62,7 @@ color: rgb(131, 32, 32);
   
   /* Style the back side */
   .flip-card-back {
-    background-color: rgb(170, 50, 56);
+    background-color: rgb(28, 128, 106);
     color: rgba(7, 6, 6, 0.808);
     transform: rotateY(180deg);
   }
